@@ -1,0 +1,10 @@
+/home/vitorcardoso/Documents/Personal/FIAP/serverless/serverless-trap/src/main/java/br/com/fiap/dao/DynamoDBManager.java
+/home/vitorcardoso/Documents/Personal/FIAP/serverless/serverless-trap/src/main/java/br/com/fiap/dao/DynamoDBAdapter.java
+/home/vitorcardoso/Documents/Personal/FIAP/serverless/serverless-trap/src/main/java/br/com/fiap/ApiGatewayResponse.java
+/home/vitorcardoso/Documents/Personal/FIAP/serverless/serverless-trap/src/main/java/br/com/fiap/Response.java
+/home/vitorcardoso/Documents/Personal/FIAP/serverless/serverless-trap/src/main/java/br/com/fiap/handlers/GetTripByIdHandler.java
+/home/vitorcardoso/Documents/Personal/FIAP/serverless/serverless-trap/src/main/java/br/com/fiap/handlers/CreateTripsHandler.java
+/home/vitorcardoso/Documents/Personal/FIAP/serverless/serverless-trap/src/main/java/br/com/fiap/utils/CreateBucket.java
+/home/vitorcardoso/Documents/Personal/FIAP/serverless/serverless-trap/src/main/java/br/com/fiap/model/Trip.java
+/home/vitorcardoso/Documents/Personal/FIAP/serverless/serverless-trap/src/main/java/br/com/fiap/handlers/GetTripsByPeriodHandler.java
+/home/vitorcardoso/Documents/Personal/FIAP/serverless/serverless-trap/src/main/java/br/com/fiap/repository/TripRepository.java

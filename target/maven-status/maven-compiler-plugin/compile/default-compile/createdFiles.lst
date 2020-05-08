@@ -1,0 +1,11 @@
+br/com/fiap/dao/DynamoDBManager.class
+br/com/fiap/handlers/CreateTripsHandler.class
+br/com/fiap/handlers/GetTripByIdHandler.class
+br/com/fiap/repository/TripRepository.class
+br/com/fiap/model/Trip.class
+br/com/fiap/ApiGatewayResponse$Builder.class
+br/com/fiap/dao/DynamoDBAdapter.class
+br/com/fiap/utils/CreateBucket.class
+br/com/fiap/handlers/GetTripsByPeriodHandler.class
+br/com/fiap/ApiGatewayResponse.class
+br/com/fiap/Response.class
